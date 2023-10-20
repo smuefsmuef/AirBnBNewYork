@@ -24,10 +24,15 @@
 
 ## How to run the program
     
-**Run the file fenetre1.py** 
+**Run the file fenetre1.py**
     
 then insert the correct password = TC1027
 and select the first questions
+
+--> **Alternative**:
+
+You can also run each file individually
+
 
 # Description
 
