@@ -3,7 +3,6 @@ import customtkinter as ctk
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
-from tkinter import PhotoImage
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from PIL import Image
 
