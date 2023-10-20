@@ -13,18 +13,18 @@ Miguel Angel Pérez Rios A01751379
 
 ## Install all the needed dependencies:
 
-from CTkMessagebox import CTkMessagebox  # Importe une boîte de dialogue personnalisée
-import customtkinter as ctk  # Importe le module customtkinter pour créer l'interface graphique
-import os  # Importe le module os pour exécuter un autre script Python
-import pandas as pd
-import matplotlib.pyplot as plt
-from tkinter import PhotoImage
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from PIL import Image
+* from CTkMessagebox import CTkMessagebox  # Importe une boîte de dialogue personnalisée
+* import customtkinter as ctk  # Importe le module customtkinter pour créer l'interface graphique
+* import os  # Importe le module os pour exécuter un autre script Python
+* import pandas as pd
+* import matplotlib.pyplot as plt
+* from tkinter import PhotoImage
+* from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+* from PIL import Image
 
 ## How to run the program
     
-run the file fenetre1.py 
+**run the file fenetre1.py** 
     
 then insert the correct password = TC1027
 and select the first questions
@@ -48,17 +48,21 @@ In total, this dataset (.csv) comprises 26 columns. Here is a description of the
 The analysis of the Airbnb dataset in New York City has shown several key insights that can be used to improve or change business strategies for the platform. Here are the conclusions drawn from the data:
 #### 1. Do hosts with verified identities receive more positive reviews compared to hosts without verified identities?:
 ![1.png](1.png)
+
 The data indicates that hosts with verified identities do not significantly outperform hosts without verification in terms of receiving positive reviews (above 4). The distribution of positive reviews is almost evenly split, with 50.5% belonging to verified hosts and 49.2% to unverified hosts. This suggests that host identity verification alone may not be the sole determinant of guest satisfaction.
 #### 2. Which neighborhoods in New York City have the highest and lowest average listing prices?
 ![2.png](2.png)
+
 The analysis of average listing prices across New York City neighborhoods highlights significant disparities. Neighborhoods such as New Drop, Chelsea Staten Island, and Fort Wadsworth exhibit the highest average prices, while Lighthouse Hill, Spuyten Duyvil, and Rosville offer more budget-friendly options. Understanding these price variations can be crucial in shaping pricing strategies and marketing efforts tailored to specific neighborhoods.
 It’s interesting to see, that some neigbourhood groups (f.e.Staten Island) are represented as well in the top 10 of the lowest and the top 10 of the highest prices. Brooklyn seems to be the only neigbourhoodgroup that does not offer lower than the average listings.
 #### 3. Which listings have the highest reviews? 
 ![3.png](3.png)
+
 The analysis of reviews indicates that certain neighborhoods consistently receive higher average review rates, indicating potentially popular and highly-rated properties (f.e. Glen Oaks,Co-op City, Gerritsen Beach). This information is valuable for both hosts and guests, as it helps identify areas where guests have had consistently positive experiences. 
 There seems to be no clear preference in specific neigbourhood groups. Only Staten Island might be considered in average higher rated.
 #### 4. Is there a Correlation between price and service fee?
 ![4.png](4.png)
+
 There's a positive correlation between listing price and service fee. As the price of a listing increases, the service fee tends to rise as well. This suggests a relationship between these two factors, which can inform pricing strategies.
 
 
