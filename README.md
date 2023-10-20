@@ -3,10 +3,10 @@
 # Problem situation: Airbnb Open Data
 
 ###  Team Name: NEW YORK
-Mathieu LE TREUST A01762505
-Petra KOHLER A01762430
-Hanna KRÖLL A01762270
-Miguel Angel Pérez Rios A01751379
+* Mathieu LE TREUST A01762505
+* Petra KOHLER A01762430
+* Hanna KRÖLL A01762270
+* Miguel Angel Pérez Rios A01751379
 
 
 # How To Run
@@ -24,7 +24,7 @@ Miguel Angel Pérez Rios A01751379
 
 ## How to run the program
     
-**run the file fenetre1.py** 
+**Run the file fenetre1.py** 
     
 then insert the correct password = TC1027
 and select the first questions
@@ -41,7 +41,7 @@ The chosen dataset is accessible at the following link: https://www.kaggle.com/d
 
 This dataset pertains to the use of Airbnb since 2008, where both guests and hosts have used the platform to travel in a more unique and personalized manner. As part of the "Airbnb Inside" initiative, this dataset describes the listing activity of homestays in New York City. It has a size of 35.91 MB and is downloadable in CSV format. The author of this dataset is Arian Azmoudeh. There are 102599 lines.
 
-In total, this dataset (.csv) comprises 26 columns. Here is a description of these columns:
+In total, this dataset (.csv) comprises 26 columns.
 
 
 ### Main Questions
